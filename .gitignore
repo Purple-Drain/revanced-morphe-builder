@@ -7,3 +7,5 @@ test*
 build.md
 cmpr
 *-temporary-files
+ks.keystore
+ks-p12.keystore
