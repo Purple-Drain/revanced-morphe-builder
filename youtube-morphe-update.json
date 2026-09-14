@@ -1,6 +1,6 @@
 {
-  "version": "21.04.223 (patches 1.40.0.mpp)",
-  "versionCode": 1,
-  "zipUrl": "https://github.com/Purple-Drain/revanced-morphe-builder/releases/download/1/youtube-morphe-module-v21.04.223-all.zip",
+  "version": "21.13.164 (patches 1.43.0.mpp)",
+  "versionCode": 4,
+  "zipUrl": "https://github.com/Purple-Drain/revanced-morphe-builder/releases/download/4/youtube-morphe-module-v21.13.164-all.zip",
   "changelog": "https://raw.githubusercontent.com/Purple-Drain/revanced-morphe-builder/update/build.md"
 }
